@@ -1,0 +1,15 @@
+ipch/
+Debug/
+*.sln
+*.sdf
+common/**/*.vcxproj
+common/**/*.filters
+common/**/*.users
+
+encoder/**/*.vcxproj
+encoder/**/*.filters
+encoder/**/*.users
+
+decoder/**/*.vcxproj
+decoder/**/*.filters
+decoder/**/*.users
